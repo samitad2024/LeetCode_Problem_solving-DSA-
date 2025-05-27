@@ -1,3 +1,4 @@
+/** soulution for palindrome number */
 class Solution {
   bool isPalindrome(int x) {
     if (x < 0) {
