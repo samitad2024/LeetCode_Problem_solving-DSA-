@@ -13,7 +13,7 @@ class Solution {
       }
 
       numMap[currentNum] = i;
-    }
+    }v
 
     return []; 
   }
